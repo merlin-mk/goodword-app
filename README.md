@@ -1,4 +1,4 @@
-# Blue
+# Ava
 
 A landing page template.
 

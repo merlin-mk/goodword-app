@@ -1,15 +1,15 @@
 {
-  "name": "blue",
+  "name": "ava",
   "version": "1.0.0",
-  "description": "Blue Template",
+  "description": "Ava Template",
   "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
   "license": "GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/pasqualevitiello/blue.git"
+    "url": "https://bitbucket.org/pasqualevitiello/ava.git"
   },
   "bugs": {
-    "url": "https://bitbucket.org/pasqualevitiello/blue/issues"
+    "url": "https://bitbucket.org/pasqualevitiello/ava/issues"
   },
   "scripts": {
     "clean": "rimraf dist/{css/*,js/*,images/*}",
@@ -49,6 +49,6 @@
     "stylelint": "^9.4.0",
     "uglify-es": "^3.3.10"
   },
-  "homepage": "https://bitbucket.org/pasqualevitiello/blue#readme",
+  "homepage": "https://bitbucket.org/pasqualevitiello/ava#readme",
   "main": ".eslintrc.js"
 }
